@@ -3,10 +3,9 @@
 </p>
 
 
-# 📚 Master README
-
-Starting home page of the HazardMon project, supported by the NSF #2319944: CICI: TCR: A Unified Monitoring Approach to Enhancing the Security and Resiliency of Hazard Workflows on Heterogeneous Infrastructures
 ---
+Starting home page of the HazardMon project, supported by the NSF #2319944: CICI: TCR: A Unified Monitoring Approach to Enhancing the Security and Resiliency of Hazard Workflows on Heterogeneous Infrastructures
+
 
 ## 🔥 Fire Project
 

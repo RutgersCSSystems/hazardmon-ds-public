@@ -12,8 +12,7 @@ Starting home page of the HazardMon projects
 
 **Dataset Preparation and YOLO Timing Experiments**
 
-The Fire project provides scripts to **download datasets**, **generate variants**, and **run YOLO inference timing experiments**.  
-The goal is to evaluate model robustness under dataset transformations and measure runtime performance.
+The Fire project provides scripts to **download datasets**, **generate variants**, and **run YOLO inference timing experiments to understand security challenges**.  
 
 - 📂 [Fire Project Repository](./fire)  
 - 📖 [Fire Project README](./fire/README.md)

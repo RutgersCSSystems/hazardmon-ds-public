@@ -9,7 +9,7 @@ Starting home page of the HazardMon project, supported by the NSF #2319944: CICI
 
 **Dataset Preparation and YOLO Timing Experiments**
 
-The Fire project provides scripts to **download datasets**, **generate variants**, and **run YOLO inference timing experiments to understand security challenges**.  
+The FIRE reporsitory provides scripts to **download datasets**, **generate variants**, and **run YOLO inference timing experiments to understand security challenges** for wildfire monitoring systems like SAGE.  
 
 - 📂 [Fire Project Repository](./fire)  
 - 📖 [Fire Project README](./fire/README.md)

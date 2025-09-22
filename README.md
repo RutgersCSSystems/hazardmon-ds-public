@@ -2,8 +2,6 @@
   <img src="HazardMon-logo.png" alt="Fire Project Logo" width="120" style="margin-right:80px;"/>
 </p>
 
-
----
 Starting home page of the HazardMon project, supported by the NSF #2319944: CICI: TCR: A Unified Monitoring Approach to Enhancing the Security and Resiliency of Hazard Workflows on Heterogeneous Infrastructures
 
 

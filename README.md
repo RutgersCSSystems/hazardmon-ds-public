@@ -2,7 +2,7 @@
   <img src="HazardMon-logo.png" alt="Fire Project Logo" width="120" style="margin-right:80px;"/>
 </p>
 
-Starting home page of the HazardMon project, supported by the NSF #2319944: CICI: TCR: A Unified Monitoring Approach to Enhancing the Security and Resiliency of Hazard Workflows on Heterogeneous Infrastructures
+Starting home page of the HazardMon project, supported by the NSF #2319944: CICI: TCR: A Unified Monitoring Approach to Enhancing the Security and Resiliency of Hazard Workflows on Heterogeneous Infrastructures.
 
 
 ## 🔥 Fire Project
@@ -31,7 +31,6 @@ The Zapdos project contains the implementation of **ZAPDOS**, including both sim
 - Author: **Chris Misa**  
 - Last Updated: **2024-05-21**  
 - License: See [LICENSE](./zapdos/LICENSE)  
-- Status: Work in progress, not fully tested.  
 - Contact: [cmisa@cs.uoregon.edu](mailto:cmisa@cs.uoregon.edu)  
 
 Zapdos uses the **nix package manager** with definitions for required environments.  
@@ -43,7 +42,7 @@ If definitions are missing or outdated, please update and/or submit a pull reque
 ---
 
 
-## Related Publications and NSF Project:
+## Related Publications:
 The repository includes datasets as a part of the following publications:
 
 1. Stateful Triage for Reliable and Secure Wildfire Monitoring at the Edge

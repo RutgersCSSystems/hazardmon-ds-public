@@ -8,6 +8,7 @@ performance.
 ---
 
 ## 📂 Repository Structure
+```
 .
 ├── scripts/
 │ ├── setvars.sh # Environment variable setup
@@ -24,6 +25,7 @@ performance.
 │ └── timings_subset.csv # Smaller subset of timings
 │
 └── README.md
+```
 
 ---
 

@@ -1,11 +1,11 @@
-# 📚 Master README
-This repository serves as a central entry point and **navigation hub** for related projects in this research effort.  
-Below you will find links and descriptions for each project.
-
 <p align="left">
-  <img src="HazardMon-logo.png" alt="Fire Project Logo" width="120" style="margin-right:40px;"/>
+  <img src="HazardMon-logo.png" alt="Fire Project Logo" width="120" style="margin-right:80px;"/>
 </p>
 
+
+# 📚 Master README
+
+Starting home page of the HazardMon projects
 ---
 
 ## 🔥 Fire Project
